@@ -1,0 +1,3 @@
+PROGRAM MAIN
+    WRITE(*,*) "Program Start!"
+END PROGRAM MAIN
